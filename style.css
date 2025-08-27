@@ -1,0 +1,30 @@
+/* Importando a biblioteca remixixon */
+@import url("https://cdn.jsdelivr.net/npm/remixicon@4.5.0/fonts/remixicon.css");
+
+/* Importando fonte Poppins */
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap");
+
+/* Importando o estilo do reset */
+@import url("./styles/reset.css");
+
+/* Importando o estilo do header */
+@import url("./styles/header.css");
+
+/* Importando o estilo do main */
+@import url("./styles/main.css");
+
+/* Importando o estilo dos cards */
+@import url("./styles/cards.css");
+
+/* Importando o estilo do footer */
+@import url("./styles/footer.css");
+
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+:root {
+
+    --hover-color: #8cfd07;
+
+}
